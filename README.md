@@ -1,4 +1,8 @@
 # Hospital Management System
+
+Project Report Link:
+https://drive.google.com/file/d/1ECj0IGPGNaMgfGP8CsCGFyYfdiW8jcsu/view?usp=sharing
+
 Hospital Management System using MySQL, Php and Bootstrap
 
 The Hospital Management System is a comprehensive web application designed to manage and streamline various operations within a hospital. The system allows hospital staff to efficiently manage patient data, appointments, medical records, billing, and hospital resources.
@@ -11,4 +15,14 @@ Billing System: Generate and manage patient bills based on treatments, tests, an
 Medical Records: Securely store and retrieve patient medical records, including diagnosis, treatment history, and lab results.
 Reports Generation: Generate and download reports in PDF format, such as patient summaries, billing invoices, and staff schedules.
 This system aims to improve the efficiency and accuracy of hospital operations while providing a user-friendly interface for staff and administrative teams.
+
+Video Presentation :
+
+https://github.com/user-attachments/assets/344f2b6f-b925-4589-845f-28d7d900a565
+
+
+
+
+
+
 
